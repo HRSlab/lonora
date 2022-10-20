@@ -6,4 +6,3 @@ Author: carlo_at_hrslab.com
 Project: hrs -> dev -> lonora -> nobilling
 
 # MultiTesting
-
